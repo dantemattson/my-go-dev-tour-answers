@@ -1,0 +1,7 @@
+go 1.19
+
+use (
+	./exercise-loops-and-functions
+	./exercise-maps
+	./exercise-slices
+)
