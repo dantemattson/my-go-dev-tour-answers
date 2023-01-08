@@ -44,3 +44,10 @@ Implement the `io.Reader` interface on the `rot13Reader` type by implementing th
 ## Exercise Images
 Rewrite the earlier picture generator in the "Slices" exercise to implement image.Image instead of a slice. A custom Image type is defined and the `ColorModel`, `Bounds` and `At` functions are implemented to be able to call pic.ShowImage.
 
+
+## Exercise Equivalent Binary Trees
+Using the golang tour tree package, implement and test the `Walk` function. Implement the `Same` function and test it.
+
+
+## Exercise Web Crawler
+Used Go's concurrency features to parallelise a web crawler. Modified the `Crawl` function to fetch URLs in parallel without fetching the same URL twice. Crawl uses `fetcher` to recursively crawl pages starting with `url`, to a maximum of `depth`.

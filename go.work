@@ -5,4 +5,11 @@ use (
 	./exercise-loops-and-functions
 	./exercise-maps
 	./exercise-slices
+	./exercise-errors
+	./exercise-images
+	./exercise-readers
+	./exercise-rot-readers
+	./exercise-stringers
+	./exercise-web-crawler
+	./exercise-equivalent-binary-trees
 )
