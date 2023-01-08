@@ -1,6 +1,7 @@
 go 1.19
 
 use (
+	./exercise-fibonacci-closure
 	./exercise-loops-and-functions
 	./exercise-maps
 	./exercise-slices
