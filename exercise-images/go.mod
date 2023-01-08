@@ -1,4 +1,4 @@
-module example.com/exercise-readers/v2
+module example.com/exercise-images/v2
 
 go 1.19
 
